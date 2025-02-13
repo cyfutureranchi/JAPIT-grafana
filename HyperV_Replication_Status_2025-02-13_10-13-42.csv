@@ -1,206 +1,206 @@
-"VMName","PrimaryServer","ReplicaServer","ReplicationHealth","ReplicationMode","LastReplicationTime"
-"JHSDCAGRIAPP01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Critical","Replica","2/5/2025 5:43:26 PM"
-"JHSDCAPDSAPP2","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:31 AM"
-"JHSDCAYSHAPP01","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 10:05:20 AM"
-"JHSDCBOREAPP01","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:22 AM"
-"JHSDCBPMSWEB01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:25 AM"
-"JHSDCCLMSAPP01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Critical","Replica","2/7/2025 11:37:36 AM"
-"JHSDCCQBEAPP02","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:14 AM"
-"JHSDCCTAXAPI01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:20 AM"
-"JHSDCCTAXAPP01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:04:23 AM"
-"JHSDCCTAXAPP02","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:21 AM"
-"JHSDCCTAXESV01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:21 AM"
-"JHSDCCTAXMIS01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:04:20 AM"
-"JHSDCCTAXPOR02","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:20 AM"
-"JHSDCCTAXSLB01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 10:04:20 AM"
-"JHSDCDISHAPP01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:15 AM"
-"JHSDCDLMSAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:38 AM"
-"JHSDCDLMSAPP02","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:43 AM"
-"JHSDCDLMSPROX01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:43 AM"
-"JHSDCEGZTAPP01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:14 AM"
-"JHSDCEOFCAPP01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:12 AM"
-"JHSDCEOFCAPP02","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:13 AM"
-"JHSDCICTAXAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:14 AM"
-"JHSDCILMSGTW01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 10:08:39 AM"
-"JHSDCINFUCS01","JHSDCR04INF02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:49 AM"
-"JHSDCIPDSAPP02","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:11 AM"
-"JHSDCJBMSAPP01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:16 AM"
-"JHSDCJCRTAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:38 AM"
-"JHSDCJDBTAPP01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:26 AM"
-"JHSDCJHJYAAP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:44 AM"
-"JHSDCJHLRNKS01","JHSDCR30APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:21 AM"
-"JHSDCJHTEAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:35 AM"
-"JHSDCJIMSAPP01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:58:18 AM"
-"JHSDCJIMSAPP02","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 10:11:14 AM"
-"JHSDCJIMSAPP1","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:15 AM"
-"JHSDCJIMSAPP2","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 9:59:11 AM"
-"JHSDCJPDSUAT01","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:12 AM"
-"JHSDCJPDSUAT02","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:12 AM"
-"JHSDCJSECNFS01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 10:09:37 AM"
-"JHSDCJSFSAPP2","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:19 AM"
-"JHSDCKUSMAPP01","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:19 AM"
-"JHSDCKUSMAPP03","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:19 AM"
-"JHSDCKUSMAPP06","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:19 AM"
-"JHSDCMSRYAPP02","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:41 AM"
-"JHSDCNPRTAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:35 AM"
-"JHSDCPDSAPP1","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:18 AM"
-"JHSDCPDSAPP2","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:26 AM"
-"JHSDCRERAAPP01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:20 AM"
-"JHSDCRTGSAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:35 AM"
-"JHSDCSAVIAPP01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:26 AM"
-"JHSDCSAYAAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:43 AM"
-"JHSDCSAYANFS01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:18 AM"
-"JHSDCSPORAPP01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:20 AM"
-"JHSDCUDHDAPP01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:04:58 AM"
-"JHSDCVALTAPP01","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:15 AM"
-"JHSDCVALTAPP02","JHSDCR04APP03.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Warning","Replica","2/13/2025 10:08:43 AM"
-"JHSDCVIDIAPP1","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:21 AM"
-"JHSDCYOGAAPP01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV01-184-11.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:10 AM"
-"JHSDCABISAPP01","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:31 AM"
-"JHSDCABISAPP02","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:34 AM"
-"JHSDCABISAPP03","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:51 AM"
-"JHSDCAGRIAPP02","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:58:42 AM"
-"JHSDCAHEMAPP01","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:29 AM"
-"JHSDCASSYNFS01","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:31 AM"
-"JHSDCATMSAPP01","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:11 AM"
-"JHSDCCTAXLDP01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:52 AM"
-"JHSDCCTAXMIS02","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:58:38 AM"
-"JHSDCCTAXPOR01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:10 AM"
-"JHSDCDOPLAPP01","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:39 AM"
-"JHSDCFORSAPP1","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:21 AM"
-"JHSDCGSTNAPP01","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:40 AM"
-"JHSDCHRMSAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:23 AM"
-"JHSDCHRMSAPP02","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:58 AM"
-"JHSDCJCEBAPP1","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:22 AM"
-"JHSDCJCMSAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:15 AM"
-"JHSDCJFRYAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:25 AM"
-"JHSDCJFRYAPP02","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:51 AM"
-"JHSDCJGRUAPP01","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:44 AM"
-"JHSDCJGRUNFS01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:01 AM"
-"JHSDCJHLRAPI01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:17 AM"
-"JHSDCJHLRBSD01","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:41 AM"
-"JHSDCJHLRLGN01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:10:56 AM"
-"JHSDCJHLRLGN02","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:55 AM"
-"JHSDCJHLRMIS01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:41 AM"
-"JHSDCJHLRMIS02","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:58:59 AM"
-"JHSDCJHLRMUT01","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:10 AM"
-"JHSDCJHLRNFS01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:47 AM"
-"JHSDCJIMSAPI1","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:16 AM"
-"JHSDCJMRRAPP01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:30 AM"
-"JHSDCJMTCAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:24 AM"
-"JHSDCJRMCAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:13 AM"
-"JHSDCJSFSPRX1","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:40 AM"
-"JHSDCJVSKAPP02","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:02 AM"
-"JHSDCKRMYAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:04 AM"
-"JHSDCKUSMNFS01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:43 AM"
-"JHSDCMSRYAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:29 AM"
-"JHSDCMVTSAPP1","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:27 AM"
-"JHSDCMVTSAPP2","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:26 AM"
-"JHSDCPSDNAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:37 AM"
-"JHSDCSARLAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:17 AM"
-"JHSDCSGRSAPP01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:47 AM"
-"JHSDCSGRSNFS01","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:25 AM"
-"JHSDCSJTMSNFS1","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:41 AM"
-"JHSDCSJTMSWEB1","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:10 AM"
-"JHSDCTNTCAPP01","JHSDCR30WEB04.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:13 AM"
-"JHSDCTRTCAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:18 AM"
-"JHSDCUPARAPP1","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:14 AM"
-"JHSDCUPARAPP2","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:22 AM"
-"JHSDCUPARFTP1","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:53 AM"
-"JHSDCUPARNFS1","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:18 AM"
-"JHSDCUPARPRX1","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV03-184-13.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:39 AM"
-"JHSDCABISDBS01","JHSDCR29DBS05.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:12 AM"
-"JHSDCABISDBS02","JHSDCR29DBS05.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:20 AM"
-"JHSDCABISDBS03","JHSDCR29DBS06.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:04 AM"
-"JHSDCAHEMDBS01","JHSDCR29DBS06.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:33 AM"
-"JHSDCBORENFS01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:13 AM"
-"JHSDCBPMSDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:29 AM"
-"JHSDCCLMSAPP02","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:31 AM"
-"JHSDCCPMSAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:07 AM"
-"JHSDCCPMSDBS01","JHSDCR29DBS03.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:31 AM"
-"JHSDCCQBEAPP01","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:10:04 AM"
-"JHSDCCTAXESV02","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:58:20 AM"
-"JHSDCCTAXSLB02","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:58:59 AM"
-"JHSDCDLMSNFS01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:24 AM"
-"JHSDCDOSLAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:06 AM"
-"JHSDCDOSLDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:21 AM"
-"JHSDCEDBIAPP01","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:20 AM"
-"JHSDCELEGAPP1","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:38 AM"
-"JHSDCEXCIAPP01","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:10:51 AM"
-"JHSDCEXCIAPP02","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:23 AM"
-"JHSDCEXCIAPP03","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:02 AM"
-"JHSDCHUSBAPP01","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:04 AM"
-"JHSDCICTAXDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:50 AM"
-"JHSDCJBDBAPP01","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:02 AM"
-"JHSDCJBORAPP01","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:15 AM"
-"JHSDCJBORNFS01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:20 AM"
-"JHSDCJCEBDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:44 AM"
-"JHSDCJFRYDBS01","JHSDCR05DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:23 AM"
-"JHSDCJGRUAPP02","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:10:13 AM"
-"JHSDCJGRUSTM01","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:19 AM"
-"JHSDCJHJYDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:24 AM"
-"JHSDCJHLRDAS01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:15 AM"
-"JHSDCJIMSWEB1","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:16 AM"
-"JHSDCJPDSNGS01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:24 AM"
-"JHSDCJPDSSLB01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:19 AM"
-"JHSDCJPDSWEB1","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:10:03 AM"
-"JHSDCJPDSWEB2","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:52 AM"
-"JHSDCJPDSWEB3","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:47 AM"
-"JHSDCJPDSWEB4","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:05 AM"
-"JHSDCJPDSWEB5","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:51 AM"
-"JHSDCJPDSWEB6","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:16 AM"
-"JHSDCJRCDAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:29 AM"
-"JHSDCJRTEAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:11:18 AM"
-"JHSDCJRTEDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:45 AM"
-"JHSDCJSECAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:22 AM"
-"JHSDCJSECDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:39 AM"
-"JHSDCJSFSAPP1","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:04 AM"
-"JHSDCJSFSNFS1","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:59 AM"
-"JHSDCJTMSAPP1","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:23 AM"
-"JHSDCJTMSWEB1","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:14 AM"
-"JHSDCJVSKAPP01","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:00:55 AM"
-"JHSDCJXLNAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:20 AM"
-"JHSDCKRMYAPP02","JHSDCR30WEB02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:05:59 AM"
-"JHSDCKUSMAPI02","JHSDCR30WEB01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Critical","Replica","2/11/2025 10:58:05 AM"
-"JHSDCKUSMAPP02","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:19 AM"
-"JHSDCKUSMAPP04","JHSDCR30WEB03.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:19 AM"
-"JHSDCMVTSAPP3","JHSDCR30APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:00 AM"
-"JHSDCNPRTDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:37 AM"
-"JHSDCPDSSMSGQ1","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:06 AM"
-"JHSDCPDSSMSGQ2","JHSDCR04APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:50 AM"
-"JHSDCPTAXAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:03:09 AM"
-"JHSDCPTAXDBS02","JHSDCR29DBS03.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:38 AM"
-"JHSDCRCOTAPP01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:27 AM"
-"JHSDCRCOTDBS01","JHSDCR29DBS03.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:45 AM"
-"JHSDCSAYAAPP02","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:30 AM"
-"JHSDCSAYADBS02","JHSDCR05DBS06.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:09 AM"
-"JHSDCSAYAGTW01","JHSDCR04APP02.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:01:24 AM"
-"JHSDCSUKNDBS01","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:00 AM"
-"JHSDCSUKNDBS02","JHSDCR29DBS01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:39 AM"
-"Win-2019-Bis","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Critical","Replica","2/10/2025 1:09:07 PM"
-"win-2022-Bis","JHSDCR30APP01.jharkhandcloud.gov.in","DR-HV04-184-14.jharkhandcloud.gov.in","Critical","Replica","2/10/2025 1:20:41 PM"
-"JHSDCAPDSAPP1","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:05 AM"
-"JHSDCAPDSPRX1","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:55 AM"
-"JHSDCBOREDBS01","JHSDCR05DBS04.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:14 AM"
-"JHSDCBPMSNFS01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:41 AM"
-"JHSDCCLMSDBS1","JHSDCR05DBS04.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:12:20 AM"
-"JHSDCIPDSAPP01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:53 AM"
-"JHSDCJAMCAPP01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:08 AM"
-"JHSDCJBCDAPP01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 9:59:15 AM"
-"JHSDCJBCDNFS01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:49 AM"
-"JHSDCJCRTDBS01","JHSDCR29DBS04.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:26 AM"
-"JHSDCJHTEDBS01","JHSDCR29DBS04.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:50 AM"
-"JHSDCJIMSAPI01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:14 AM"
-"JHSDCJIMSAPP3","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:07:54 AM"
-"JHSDCJIMSAPP4","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:44 AM"
-"JHSDCJRMCDBS01","JHSDCR30DBS05.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:08 AM"
-"JHSDCJRTENFS01","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:24 AM"
-"JHSDCJSPSAPP1","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:09:39 AM"
-"JHSDCJSPSNFS1","JHSDCR29WEB02.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:43 AM"
-"JHSDCJSWMDBS01","JHSDCR29DBS04.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:59 AM"
-"JHSDCMHIDAPP01","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:08:06 AM"
-"JHSDCPDSPRX1","JHSDCR29WEB01.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:20 AM"
-"JHSDCSAVINFS01","JHSDCR29WEB03.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:24 AM"
-"JHSDCSMDCDBS03","JHSDCR29DBS02.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:06:27 AM"
-"JHSDCVALTDBS01","JHSDCR29DBS02.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:22 AM"
-"JHSDCVALTDBS02","JHSDCR29DBS04.jharkhandcloud.gov.in","DR-HV05-10-82-184-15.jharkhandcloud.gov.in","Normal","Replica","2/13/2025 10:02:23 AM"
+VMName	PrimaryServer	ReplicaServer	ReplicationHealth	ReplicationMode	LastReplicationTime
+JHSDCAGRIAPP01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Critical	Replica	2/5/2025 17:43
+JHSDCAPDSAPP2	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCAYSHAPP01	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 10:05
+JHSDCBOREAPP01	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCBPMSWEB01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCCLMSAPP01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Critical	Replica	2/7/2025 11:37
+JHSDCCQBEAPP02	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCCTAXAPI01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCCTAXAPP01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:04
+JHSDCCTAXAPP02	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCCTAXESV01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCCTAXMIS01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:04
+JHSDCCTAXPOR02	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCCTAXSLB01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 10:04
+JHSDCDISHAPP01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCDLMSAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCDLMSAPP02	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCDLMSPROX01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCEGZTAPP01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCEOFCAPP01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCEOFCAPP02	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCICTAXAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCILMSGTW01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 10:08
+JHSDCINFUCS01	JHSDCR04INF02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCIPDSAPP02	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCJBMSAPP01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCJCRTAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJDBTAPP01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJHJYAAP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJHLRNKS01	JHSDCR30APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCJHTEAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCJIMSAPP01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:58
+JHSDCJIMSAPP02	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 10:11
+JHSDCJIMSAPP1	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCJIMSAPP2	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 9:59
+JHSDCJPDSUAT01	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJPDSUAT02	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJSECNFS01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 10:09
+JHSDCJSFSAPP2	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCKUSMAPP01	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCKUSMAPP03	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCKUSMAPP06	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCMSRYAPP02	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCNPRTAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCPDSAPP1	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCPDSAPP2	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCRERAAPP01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCRTGSAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCSAVIAPP01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCSAYAAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCSAYANFS01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCSPORAPP01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCUDHDAPP01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:04
+JHSDCVALTAPP01	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCVALTAPP02	JHSDCR04APP03.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Warning	Replica	2/13/2025 10:08
+JHSDCVIDIAPP1	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCYOGAAPP01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV01-184-11.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCABISAPP01	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCABISAPP02	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCABISAPP03	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCAGRIAPP02	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:58
+JHSDCAHEMAPP01	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCASSYNFS01	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCATMSAPP01	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCCTAXLDP01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCCTAXMIS02	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:58
+JHSDCCTAXPOR01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCDOPLAPP01	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCFORSAPP1	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCGSTNAPP01	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCHRMSAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCHRMSAPP02	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCJCEBAPP1	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCJCMSAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCJFRYAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJFRYAPP02	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJGRUAPP01	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJGRUNFS01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCJHLRAPI01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCJHLRBSD01	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJHLRLGN01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:10
+JHSDCJHLRLGN02	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCJHLRMIS01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCJHLRMIS02	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:58
+JHSDCJHLRMUT01	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCJHLRNFS01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCJIMSAPI1	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJMRRAPP01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCJMTCAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJRMCAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCJSFSPRX1	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCJVSKAPP02	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCKRMYAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCKUSMNFS01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCMSRYAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCMVTSAPP1	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCMVTSAPP2	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCPSDNAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCSARLAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCSGRSAPP01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCSGRSNFS01	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCSJTMSNFS1	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCSJTMSWEB1	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCTNTCAPP01	JHSDCR30WEB04.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCTRTCAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCUPARAPP1	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCUPARAPP2	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCUPARFTP1	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCUPARNFS1	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCUPARPRX1	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV03-184-13.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCABISDBS01	JHSDCR29DBS05.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCABISDBS02	JHSDCR29DBS05.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCABISDBS03	JHSDCR29DBS06.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCAHEMDBS01	JHSDCR29DBS06.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCBORENFS01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCBPMSDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCCLMSAPP02	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCCPMSAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCCPMSDBS01	JHSDCR29DBS03.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCCQBEAPP01	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:10
+JHSDCCTAXESV02	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:58
+JHSDCCTAXSLB02	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:58
+JHSDCDLMSNFS01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCDOSLAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCDOSLDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCEDBIAPP01	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCELEGAPP1	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCEXCIAPP01	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:10
+JHSDCEXCIAPP02	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCEXCIAPP03	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCHUSBAPP01	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCICTAXDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJBDBAPP01	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJBORAPP01	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJBORNFS01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCJCEBDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJFRYDBS01	JHSDCR05DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJGRUAPP02	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:10
+JHSDCJGRUSTM01	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCJHJYDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJHLRDAS01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCJIMSWEB1	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCJPDSNGS01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCJPDSSLB01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCJPDSWEB1	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:10
+JHSDCJPDSWEB2	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJPDSWEB3	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJPDSWEB4	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJPDSWEB5	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCJPDSWEB6	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCJRCDAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJRTEAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:11
+JHSDCJRTEDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJSECAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCJSECDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJSFSAPP1	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJSFSNFS1	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJTMSAPP1	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCJTMSWEB1	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCJVSKAPP01	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:00
+JHSDCJXLNAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCKRMYAPP02	JHSDCR30WEB02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:05
+JHSDCKUSMAPI02	JHSDCR30WEB01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Critical	Replica	2/11/2025 10:58
+JHSDCKUSMAPP02	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCKUSMAPP04	JHSDCR30WEB03.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCMVTSAPP3	JHSDCR30APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCNPRTDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCPDSSMSGQ1	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCPDSSMSGQ2	JHSDCR04APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCPTAXAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:03
+JHSDCPTAXDBS02	JHSDCR29DBS03.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCRCOTAPP01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCRCOTDBS01	JHSDCR29DBS03.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCSAYAAPP02	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCSAYADBS02	JHSDCR05DBS06.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCSAYAGTW01	JHSDCR04APP02.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:01
+JHSDCSUKNDBS01	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCSUKNDBS02	JHSDCR29DBS01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+Win-2019-Bis	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Critical	Replica	2/10/2025 13:09
+win-2022-Bis	JHSDCR30APP01.jharkhandcloud.gov.in	DR-HV04-184-14.jharkhandcloud.gov.in	Critical	Replica	2/10/2025 13:20
+JHSDCAPDSAPP1	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCAPDSPRX1	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCBOREDBS01	JHSDCR05DBS04.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCBPMSNFS01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCCLMSDBS1	JHSDCR05DBS04.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:12
+JHSDCIPDSAPP01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJAMCAPP01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJBCDAPP01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 9:59
+JHSDCJBCDNFS01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJCRTDBS01	JHSDCR29DBS04.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJHTEDBS01	JHSDCR29DBS04.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJIMSAPI01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJIMSAPP3	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:07
+JHSDCJIMSAPP4	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJRMCDBS01	JHSDCR30DBS05.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJRTENFS01	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCJSPSAPP1	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:09
+JHSDCJSPSNFS1	JHSDCR29WEB02.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCJSWMDBS01	JHSDCR29DBS04.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCMHIDAPP01	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:08
+JHSDCPDSPRX1	JHSDCR29WEB01.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCSAVINFS01	JHSDCR29WEB03.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCSMDCDBS03	JHSDCR29DBS02.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:06
+JHSDCVALTDBS01	JHSDCR29DBS02.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
+JHSDCVALTDBS02	JHSDCR29DBS04.jharkhandcloud.gov.in	DR-HV05-10-82-184-15.jharkhandcloud.gov.in	Normal	Replica	2/13/2025 10:02
